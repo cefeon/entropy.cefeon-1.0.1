@@ -1,0 +1,29 @@
+{
+  "name": "chaos",
+  "version": "1.0.1",
+  "displayName": "Chaos",
+  "description": "Chaos theme for VS Code",
+  "publisher": "cefeon",
+  "license": "SRR",
+  "icon": "icon.png",
+  "keywords": [
+    "chaos",
+    "light",
+    "low contrast"
+  ],
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chaos",
+        "uiTheme": "vs",
+        "path": "./themes/chaos.json"
+      }
+    ]
+  }
+}
