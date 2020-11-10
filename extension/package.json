@@ -1,13 +1,13 @@
 {
-  "name": "chaos",
+  "name": "entropy",
   "version": "1.0.1",
-  "displayName": "Chaos",
-  "description": "Chaos theme for VS Code",
+  "displayName": "Entropy",
+  "description": "Entropy theme for VS Code",
   "publisher": "cefeon",
   "license": "SRR",
   "icon": "icon.png",
   "keywords": [
-    "chaos",
+    "entropy",
     "light",
     "low contrast"
   ],
@@ -20,9 +20,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Chaos",
+        "label": "Entropy",
         "uiTheme": "vs",
-        "path": "./themes/chaos.json"
+        "path": "./themes/entropy.json"
       }
     ]
   }

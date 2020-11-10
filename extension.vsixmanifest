@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="chaos" Version="1.0.1" Publisher="cefeon"/>
-    <DisplayName>Chaos</DisplayName>
-    <Description xml:space="preserve">Chaos, no strings attached</Description>
-    <Tags>chaos,light,low contrast,theme,color-theme</Tags>
+    <Identity Language="en-US" Id="enropy" Version="1.0.1" Publisher="cefeon"/>
+    <DisplayName>Entropy</DisplayName>
+    <Description xml:space="preserve">Entropy, no strings attached</Description>
+    <Tags>Entropy,light,low contrast,theme,color-theme</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
     <Badges></Badges>
